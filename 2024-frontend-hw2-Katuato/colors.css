@@ -1,0 +1,37 @@
+:root {
+  --main-font: 'Inter', sans-serif; 
+  --primary-color: #f6f7f9;
+
+  /* --block-color */
+  --background-block-black-color: #000;
+  --background-block-blue-color: #07f;
+  --background-block-white-color: #fff;
+  --background-block-dark-grey-color: #212121;
+  --background-block-light-grey-color: #f6f7f9;
+
+  /* --border-color */
+  --border-color-grey-1: #e3e8f2;
+  --border-color-grey-dark: #212121;
+
+  /* --button-color */
+  --background-button-light-grey-color: #f6f7f9;
+  --background-button-dark-grey-color: #212121;
+  --background-button-blue-color: #07f;
+  --background-button-white-color: #fff;
+
+  /* --border-color */
+  --text-color-white: #fff;
+  --text-color-black: #000;
+  --text-color-light-black: #212121;
+  --text-color-grey-1: #e3e8f2;
+  --text-color-grey-2: #7c8a9a;
+  --text-color-grey-dark: #212121;
+  --text-color-blue: #07f;
+
+  /* animations */
+  --hover-background-block-dark-blue-color: #006be6;
+  --hover-background-block-grey-color: #f3f4f6;
+  --hover-border-blue-color: #0277ff;
+  --hover-border-white-color: #fff;
+  --hover-text-blue-color: #0277ff;
+}
